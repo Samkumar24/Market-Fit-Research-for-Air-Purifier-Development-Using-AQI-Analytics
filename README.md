@@ -88,7 +88,5 @@ Before entering full-scale production, **Air Pure Innovations** needs to answer 
 - Pinpoint **high-potential markets**.  
 - Align **R&D strategies** with **regional pollution patterns**.
 
----
 
-## 📌 Repository Structure
 
